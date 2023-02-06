@@ -1,0 +1,5 @@
+# install dependency
+mvn dependency:resolve
+
+# run app
+mvn spring-boot:run
